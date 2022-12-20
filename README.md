@@ -14,6 +14,9 @@ You need to install GraalVM with version __22.3+__. I use sdk man for managing V
 ## as native Application
 `./build/native/nativeCompile/demo`
 
+## Result:
+<img src="./screen-shot-started.png" alt="Result after demo start"/>
+
 ## Links
 - [sdkman](https://sdkman.io)
 - [Spring Initializr](https://start.spring.io/)
